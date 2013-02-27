@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/ecommerce_statistics",
+	"name": "sunnysideup/ecommerce_statistics",
 	"type": "silverstripe-module",
 	"description": "find out who bought what from your silverstripe e-commerce shop",
 	"homepage": "http://www.silverstripe-ecommerce.com",
