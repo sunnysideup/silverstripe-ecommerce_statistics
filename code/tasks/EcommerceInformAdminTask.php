@@ -12,6 +12,6 @@
  *
  **/
 
-class EcommerceInformAdminTask extends DailyTask {
-
+class EcommerceInformAdminTask extends DailyTask
+{
 }
